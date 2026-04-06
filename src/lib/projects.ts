@@ -34,13 +34,13 @@ export function getProjectById(id: string): Project | undefined {
 }
 
 export function getMockupImage(id: string): string {
-  return `/images/${id}/mockup.png`
+  return `/images/${id}/mockup.webp`
 }
 
 export function getDesktopImage(id: string): string {
-  return `/images/${id}/desktop.png`
+  return `/images/${id}/desktop.webp`
 }
 
 export function getMobileImage(id: string): string {
-  return `/images/${id}/mobile.png`
+  return `/images/${id}/mobile.webp`
 }
