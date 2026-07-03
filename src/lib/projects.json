@@ -2,7 +2,6 @@
   {
     "id": "생거진천문화재단",
     "title": "생거진천문화재단",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2026-02-13",
@@ -14,9 +13,73 @@
     ]
   },
   {
+    "id": "와일드카버",
+    "title": "와일드카버",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-05-19",
+    "siteUrl": "https://wildcarver.com",
+    "description": "와일드카버의 '예술과 기술의 조화' 콘셉트를 바탕으로, 불필요한 요소...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=558&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/와일드카버3.png"
+    ]
+  },
+  {
+    "id": "청주상공회의소-청년미래플러스",
+    "title": "청주상공회의소 청년미래플러스",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-05-08",
+    "siteUrl": "https://miraeplus.cci.or.kr",
+    "description": "고용노동부와 한국산업인력공단이 주관하고 청주상공회의소가 운영하는 ‘청...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=557&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/청년미래플러스.jpg"
+    ]
+  },
+  {
+    "id": "충북평생교육플랫폼",
+    "title": "충북평생교육플랫폼",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-05-08",
+    "siteUrl": "https://cbeduhub.or.kr",
+    "description": "충북평생교육플랫폼은 서원대학교 RISE사업단이 구축한 통합 허브로, ...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=556&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/etc/충북평생교육플랫폼.jpg"
+    ]
+  },
+  {
+    "id": "2026-청주-국가유산-야행",
+    "title": "2026 청주 국가유산 야행",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-05-08",
+    "siteUrl": "https://cjculturenight.org/landing2026/kor/index.html",
+    "description": "2026 청주 국가유산 야행은 국가유산이 집적·밀집된 지역을 거점으로...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=555&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/2026 청주국가유산야행.jpg"
+    ]
+  },
+  {
+    "id": "2026-청주시한국공예관-로컬레이어",
+    "title": "2026 청주시한국공예관 로컬레이어",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-05-08",
+    "siteUrl": "https://cjkcm.org/craft16/",
+    "description": "개관 25주년, 충북 공예의 과거를 ‘비움’으로 재해석하여 새로운 조...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=554&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/2026 청주시한국공예관 로컬레이어.jpg"
+    ]
+  },
+  {
     "id": "럭스엘리시아-산후조리원",
     "title": "럭스엘리시아 산후조리원",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2026-03-24",
@@ -30,7 +93,6 @@
   {
     "id": "충북에너지산학융합원",
     "title": "충북에너지산학융합원",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2026-03-10",
@@ -44,7 +106,6 @@
   {
     "id": "2025-청주국제공예공모전-관람객-참여형-ux",
     "title": "2025 청주국제공예공모전 관람객 참여형 UX",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2026-02-19",
@@ -58,7 +119,6 @@
   {
     "id": "2025청주공예비엔날레-세상-짓기",
     "title": "2025청주공예비엔날레 세상 짓기",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2026-02-13",
@@ -72,7 +132,6 @@
   {
     "id": "보스크남산",
     "title": "보스크남산",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-06-27",
@@ -86,7 +145,6 @@
   {
     "id": "메디튤립",
     "title": "메디튤립",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-06-24",
@@ -100,7 +158,6 @@
   {
     "id": "내추럴헬스코리아",
     "title": "내추럴헬스코리아",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-06-12",
@@ -114,7 +171,6 @@
   {
     "id": "리스트-강남",
     "title": "리스트 강남",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-06-02",
@@ -128,7 +184,6 @@
   {
     "id": "study-in-chungbuk",
     "title": "Study in Chungbuk",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-28",
@@ -142,7 +197,6 @@
   {
     "id": "충청권-자율주행-모빌리티-상용화지구-조성-사업",
     "title": "충청권 자율주행 모빌리티 상용화지구 조성 사업",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-28",
@@ -156,7 +210,6 @@
   {
     "id": "청주채용박람회",
     "title": "청주채용박람회",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-28",
@@ -170,7 +223,6 @@
   {
     "id": "아리너스",
     "title": "아리너스",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-28",
@@ -184,7 +236,6 @@
   {
     "id": "청주시활성화재단",
     "title": "청주시활성화재단",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-27",
@@ -198,7 +249,6 @@
   {
     "id": "송정근로자종합복지관",
     "title": "송정근로자종합복지관",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-27",
@@ -212,7 +262,6 @@
   {
     "id": "2025-청주-국가유산-야행",
     "title": "2025 청주 국가유산 야행",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-27",
@@ -226,7 +275,6 @@
   {
     "id": "미래혁신소재-글로벌-선도연구센터",
     "title": "미래혁신소재 글로벌 선도연구센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-05-27",
@@ -240,7 +288,6 @@
   {
     "id": "시아이솔루션",
     "title": "시아이솔루션",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-02-06",
@@ -254,7 +301,6 @@
   {
     "id": "고려대역-청년주택-리스트안암",
     "title": "고려대역 청년주택 리스트안암",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-02-06",
@@ -268,7 +314,6 @@
   {
     "id": "청주테크노폴리스-하트리움-더-메트로",
     "title": "청주테크노폴리스 하트리움 더 메트로",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-02-04",
@@ -282,7 +327,6 @@
   {
     "id": "청년카페-점프스테이션",
     "title": "청년카페 점프스테이션",
-    "subtitle": "",
     "category": "Web",
     "year": 2025,
     "date": "2025-02-04",
@@ -296,7 +340,6 @@
   {
     "id": "2024-충북창업페스티벌",
     "title": "2024 충북창업페스티벌",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2025-06-25",
@@ -310,7 +353,6 @@
   {
     "id": "2024-직지문화축제",
     "title": "2024 직지문화축제",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2025-02-04",
@@ -324,7 +366,6 @@
   {
     "id": "온유하게-향기롭게",
     "title": "온유하게 향기롭게",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-12-20",
@@ -338,7 +379,6 @@
   {
     "id": "충북신용보증재단",
     "title": "충북신용보증재단",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-09-11",
@@ -352,7 +392,6 @@
   {
     "id": "평택지역교육협력-원클릭",
     "title": "평택지역교육협력 원클릭",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-08-26",
@@ -366,7 +405,6 @@
   {
     "id": "삼성동-마에스트로-청년주택",
     "title": "삼성동 마에스트로 청년주택",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-08-26",
@@ -380,7 +418,6 @@
   {
     "id": "팜이랑",
     "title": "팜이랑",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-08-26",
@@ -394,7 +431,6 @@
   {
     "id": "글래드컴",
     "title": "글래드컴",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-07-22",
@@ -408,7 +444,6 @@
   {
     "id": "문정역-마에스트로-청년주택",
     "title": "문정역 마에스트로 청년주택",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-07-22",
@@ -422,7 +457,6 @@
   {
     "id": "충주시농촌신활력플러스-하이브리드앱",
     "title": "충주시농촌신활력플러스 하이브리드앱",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-07-22",
@@ -436,7 +470,6 @@
   {
     "id": "충북시민대학",
     "title": "충북시민대학",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-06-14",
@@ -450,7 +483,6 @@
   {
     "id": "충북지역대학혁신지원센터",
     "title": "충북지역대학혁신지원센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-06-14",
@@ -464,7 +496,6 @@
   {
     "id": "스마트시티챌린지교통솔류션-리빙랩",
     "title": "스마트시티챌린지교통솔류션 리빙랩",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-06-14",
@@ -478,7 +509,6 @@
   {
     "id": "한국공예관-영문",
     "title": "한국공예관 영문",
-    "subtitle": "",
     "category": "Web",
     "year": 2024,
     "date": "2024-06-14",
@@ -492,7 +522,6 @@
   {
     "id": "세종특별자치시-도시재생지원센터",
     "title": "세종특별자치시 도시재생지원센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-09-27",
@@ -506,7 +535,6 @@
   {
     "id": "2023청주공예비엔날레-사물의-지도",
     "title": "2023청주공예비엔날레 사물의 지도",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-09-27",
@@ -520,7 +548,6 @@
   {
     "id": "피펜매거진",
     "title": "피펜매거진",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-09-27",
@@ -534,7 +561,6 @@
   {
     "id": "직지국악기",
     "title": "직지국악기",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-09-27",
@@ -548,7 +574,6 @@
   {
     "id": "청주산업단지관리공단",
     "title": "청주산업단지관리공단",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-09-27",
@@ -562,7 +587,6 @@
   {
     "id": "그린누리",
     "title": "그린누리",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-06-22",
@@ -576,7 +600,6 @@
   {
     "id": "2023-청주채용박람회",
     "title": "2023 청주채용박람회",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-06-19",
@@ -590,7 +613,6 @@
   {
     "id": "움직임의-무게",
     "title": "움직임의 무게",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-30",
@@ -604,7 +626,6 @@
   {
     "id": "충북글로벌게임센터",
     "title": "충북글로벌게임센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-24",
@@ -618,7 +639,6 @@
   {
     "id": "킹고투자파트너스",
     "title": "킹고투자파트너스",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-16",
@@ -632,7 +652,6 @@
   {
     "id": "대한크라쉬연맹",
     "title": "대한크라쉬연맹",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-16",
@@ -646,7 +665,6 @@
   {
     "id": "에스폴리텍",
     "title": "에스폴리텍",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-15",
@@ -660,7 +678,6 @@
   {
     "id": "청주전통공예페스티벌",
     "title": "청주전통공예페스티벌",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-15",
@@ -674,7 +691,6 @@
   {
     "id": "충북창업페스티벌",
     "title": "충북창업페스티벌",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-15",
@@ -688,7 +704,6 @@
   {
     "id": "대청정판사",
     "title": "대청정판사",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-15",
@@ -702,7 +717,6 @@
   {
     "id": "문화도시청주",
     "title": "문화도시청주",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-15",
@@ -716,7 +730,6 @@
   {
     "id": "평범의-세계",
     "title": "평범의 세계",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-05-15",
@@ -730,7 +743,6 @@
   {
     "id": "회기역-하트리움-역세권-청년주택",
     "title": "회기역 하트리움 역세권 청년주택",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -744,7 +756,6 @@
   {
     "id": "2023-청주국제공예공모전",
     "title": "2023 청주국제공예공모전",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -758,7 +769,6 @@
   {
     "id": "사단법인-전남대불산학융합원",
     "title": "사단법인 전남대불산학융합원",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -772,7 +782,6 @@
   {
     "id": "예사랑병원",
     "title": "예사랑병원",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -786,7 +795,6 @@
   {
     "id": "충주자동차부품산업클러스터",
     "title": "충주자동차부품산업클러스터",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -800,7 +808,6 @@
   {
     "id": "동아시아문화도시-청주",
     "title": "동아시아문화도시 청주",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -814,7 +821,6 @@
   {
     "id": "같은공간-다른세상",
     "title": "같은공간, 다른세상",
-    "subtitle": "",
     "category": "Web",
     "year": 2023,
     "date": "2023-04-26",
@@ -828,7 +834,6 @@
   {
     "id": "서울사이버대학교-국방기술전공",
     "title": "서울사이버대학교 국방기술전공",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-03-28",
@@ -849,7 +854,6 @@
   {
     "id": "dataton",
     "title": "DATATON",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-23",
@@ -869,7 +873,6 @@
   {
     "id": "청주시보디빌딩협회",
     "title": "청주시보디빌딩협회",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-23",
@@ -888,7 +891,6 @@
   {
     "id": "서울사이버대학교-입학지원센터",
     "title": "서울사이버대학교 입학지원센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -910,7 +912,6 @@
   {
     "id": "한국공예관",
     "title": "한국공예관",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -931,7 +932,6 @@
   {
     "id": "주-유비콤",
     "title": "(주)유비콤",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -952,7 +952,6 @@
   {
     "id": "서울사이버대학교-회화공예전공",
     "title": "서울사이버대학교 회화공예전공",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -973,7 +972,6 @@
   {
     "id": "서울사이버대학교-청소년복지전공",
     "title": "서울사이버대학교 청소년복지전공",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -994,7 +992,6 @@
   {
     "id": "서울사이버대학교-피아노과",
     "title": "서울사이버대학교 피아노과",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -1015,7 +1012,6 @@
   {
     "id": "서울사이버대학교-가족코칭상담학과",
     "title": "서울사이버대학교 가족코칭상담학과",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -1036,7 +1032,6 @@
   {
     "id": "청주시문화산업진흥재단",
     "title": "청주시문화산업진흥재단",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-14",
@@ -1055,7 +1050,6 @@
   {
     "id": "문화파출소-청원",
     "title": "문화파출소 청원",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-10",
@@ -1076,7 +1070,6 @@
   {
     "id": "서울사이버대학교-글로벌무역물류학과",
     "title": "서울사이버대학교 글로벌무역물류학과",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-10",
@@ -1097,7 +1090,6 @@
   {
     "id": "서울사이버대학교-통합건강관리전공",
     "title": "서울사이버대학교 통합건강관리전공",
-    "subtitle": "",
     "category": "Web",
     "year": 2022,
     "date": "2022-02-10",
@@ -1118,7 +1110,6 @@
   {
     "id": "2021-한국공예관-오픈스튜디오",
     "title": "2021 한국공예관 오픈스튜디오",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-03-28",
@@ -1133,7 +1124,6 @@
   {
     "id": "2021-바이오-그린뉴딜-일자리-콘서트",
     "title": "2021 바이오 그린뉴딜 일자리 콘서트",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-03-14",
@@ -1153,7 +1143,6 @@
   {
     "id": "2021바이오메타버스취창업콘서트",
     "title": "2021바이오메타버스취창업콘서트",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-14",
@@ -1174,7 +1163,6 @@
   {
     "id": "2021-청주공예비엔날레-초대국가관",
     "title": "2021 청주공예비엔날레 초대국가관",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-14",
@@ -1191,7 +1179,6 @@
   {
     "id": "2021-청주공예비엔날레-크래프트캠프",
     "title": "2021 청주공예비엔날레 크래프트캠프",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-14",
@@ -1207,7 +1194,6 @@
   {
     "id": "2021-청주공예비엔날레-미술관-프로젝트",
     "title": "2021 청주공예비엔날레 미술관 프로젝트",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-11",
@@ -1224,7 +1210,6 @@
   {
     "id": "2021-청주공예비엔날레-공모전",
     "title": "2021 청주공예비엔날레 공모전",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-11",
@@ -1242,7 +1227,6 @@
   {
     "id": "2021-충북-바이오헬스산업-찾아가는-기업설명회",
     "title": "2021 충북 바이오헬스산업 찾아가는 기업설명회",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-10",
@@ -1263,7 +1247,6 @@
   {
     "id": "2021-청주공예비엔날레-충북공예워크숍",
     "title": "2021 청주공예비엔날레 충북공예워크숍",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2022-02-10",
@@ -1279,7 +1262,6 @@
   {
     "id": "충주장애인자립생활센터",
     "title": "충주장애인자립생활센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1300,7 +1282,6 @@
   {
     "id": "다시만난세계-유토피아",
     "title": "다시만난세계:유토피아",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1316,7 +1297,6 @@
   {
     "id": "사유의-밤",
     "title": "사유의 밤",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1332,7 +1312,6 @@
   {
     "id": "권신-치유와-재생",
     "title": "권신:치유와 재생",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1348,7 +1327,6 @@
   {
     "id": "세종특별자치시-자원봉사센터",
     "title": "세종특별자치시 자원봉사센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1369,7 +1347,6 @@
   {
     "id": "아이코마아카데미",
     "title": "아이코마아카데미",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1390,7 +1367,6 @@
   {
     "id": "한국코윈",
     "title": "한국코윈",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-08",
@@ -1411,7 +1387,6 @@
   {
     "id": "서울사이버대학교",
     "title": "서울사이버대학교",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1433,7 +1408,6 @@
   {
     "id": "2021-청주공예비엔날레-공생의-도구",
     "title": "2021 청주공예비엔날레 공생의 도구",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1449,7 +1423,6 @@
   {
     "id": "에버세이브",
     "title": "에버세이브",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1470,7 +1443,6 @@
   {
     "id": "4d바이오융합소재-산업화센터",
     "title": "4D바이오융합소재 산업화센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1491,7 +1463,6 @@
   {
     "id": "주식회사-삼화에너지",
     "title": "주식회사 삼화에너지",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1513,7 +1484,6 @@
   {
     "id": "아리바이오에이치앤비",
     "title": "아리바이오에이치앤비",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1534,7 +1504,6 @@
   {
     "id": "세기센추리",
     "title": "세기센추리",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1555,7 +1524,6 @@
   {
     "id": "세종시도시재생지원센터",
     "title": "세종시도시재생지원센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1576,7 +1544,6 @@
   {
     "id": "한국공예관-20년-공예의-향연",
     "title": "한국공예관 20년 공예의 향연",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1592,7 +1559,6 @@
   {
     "id": "한국공예관-불꽃-봄꽃이-되어-다시-피어나리",
     "title": "한국공예관 불꽃,봄꽃이 되어 다시 피어나리",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1608,7 +1574,6 @@
   {
     "id": "한국공예관-집들이-공예",
     "title": "한국공예관 집들이 공예",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1627,7 +1592,6 @@
   {
     "id": "에스아이비",
     "title": "에스아이비",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1648,7 +1612,6 @@
   {
     "id": "4d융합기술연구소",
     "title": "4D융합기술연구소",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1669,7 +1632,6 @@
   {
     "id": "더빌코리아",
     "title": "더빌코리아",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1690,7 +1652,6 @@
   {
     "id": "아름다운요양원",
     "title": "아름다운요양원",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-07",
@@ -1711,7 +1672,6 @@
   {
     "id": "청주액팅어워즈",
     "title": "청주액팅어워즈",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-04",
@@ -1732,7 +1692,6 @@
   {
     "id": "한국알미늄",
     "title": "한국알미늄",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-06-03",
@@ -1753,7 +1712,6 @@
   {
     "id": "주식회사-성진티엘에스",
     "title": "주식회사 성진티엘에스",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-05-28",
@@ -1774,7 +1732,6 @@
   {
     "id": "충북창조경제혁신센터-창업스타티움",
     "title": "충북창조경제혁신센터 창업스타티움",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-05-28",
@@ -1795,7 +1752,6 @@
   {
     "id": "지방교육재정연구원",
     "title": "지방교육재정연구원",
-    "subtitle": "",
     "category": "Web",
     "year": 2021,
     "date": "2021-05-27",
@@ -1816,7 +1772,6 @@
   {
     "id": "2020-시민공예아카데미-수료전",
     "title": "2020 시민공예아카데미 수료전",
-    "subtitle": "",
     "category": "Web",
     "year": 2020,
     "date": "2021-06-08",
@@ -1832,7 +1787,6 @@
   {
     "id": "자주렌트카",
     "title": "자주렌트카",
-    "subtitle": "",
     "category": "Web",
     "year": 2020,
     "date": "2020-03-25",
@@ -1854,7 +1808,6 @@
   {
     "id": "한국교통대학교-지역산업맞춤형-인력양성사업단-공동훈련센터",
     "title": "한국교통대학교 지역산업맞춤형 인력양성사업단 공동훈련센터",
-    "subtitle": "",
     "category": "Web",
     "year": 2020,
     "date": "2020-03-25",
@@ -1874,7 +1827,6 @@
   {
     "id": "동부창고",
     "title": "동부창고",
-    "subtitle": "",
     "category": "Web",
     "year": 2020,
     "date": "2020-03-23",
@@ -1896,7 +1848,6 @@
   {
     "id": "경원테크",
     "title": "경원테크",
-    "subtitle": "",
     "category": "Web",
     "year": 2020,
     "date": "2020-03-23",
@@ -1917,7 +1868,6 @@
   {
     "id": "웰탑테크노스",
     "title": "웰탑테크노스",
-    "subtitle": "",
     "category": "Web",
     "year": 2020,
     "date": "2020-03-23",
