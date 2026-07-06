@@ -8,7 +8,9 @@ export interface Project {
   readonly detailUrl: string
 }
 
-export const allProjects: readonly Project[] = projectsData as Project[]
+export const allProjects: readonly Project[] = (projectsData as Project[])
+  .slice()
+  .sort((a, b) => b.year - a.year)
 
 export function getYears(): readonly number[] {
   const years = [...new Set(allProjects.map((p) => p.year))]
