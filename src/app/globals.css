@@ -1,6 +1,4 @@
 @import "tailwindcss";
-@import "tw-animate-css";
-@import "shadcn/tailwind.css";
 
 /* ─── Custom Font Faces ─── */
 @font-face {
@@ -133,38 +131,11 @@
   }
 }
 
-@keyframes scale-x {
-  from {
-    opacity: 0;
-    transform: scaleX(0);
-  }
-  to {
-    opacity: 1;
-    transform: scaleX(1);
-  }
-}
-
 /* ─── Utility classes ─── */
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-
   .animate-fade-up {
     opacity: 0;
     animation: fade-up 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-  }
-
-  .animate-scale-x {
-    opacity: 0;
-    transform-origin: left;
-    animation: scale-x 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-  }
-
-  .editorial-grid {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    gap: clamp(1rem, 2vw, 2rem);
   }
 
   .reveal {
@@ -195,8 +166,7 @@
 
 @media (prefers-reduced-motion: reduce) {
   .reveal,
-  .animate-fade-up,
-  .animate-scale-x {
+  .animate-fade-up {
     opacity: 1;
     transform: none;
     transition: none;

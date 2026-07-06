@@ -2,12 +2,7 @@
 
 import Image from "next/image"
 import { useState } from "react"
-import {
-  allProjects,
-  getYears,
-  getMockupImage,
-  type Project,
-} from "@/lib/projects"
+import { allProjects, getYears, type Project } from "@/lib/projects"
 import { RevealOnScroll } from "./RevealOnScroll"
 import { ThemeToggle } from "./ThemeToggle"
 
@@ -19,7 +14,7 @@ function ProjectCard({
   readonly variant?: "featured" | "default"
 }) {
   const isFeatured = variant === "featured"
-  const mockupSrc = getMockupImage(project.id)
+  const mockupSrc = `/images/${project.id}/mockup.webp`
   const linkProps = project.siteUrl
     ? { href: project.siteUrl, target: "_blank" as const, rel: "noopener noreferrer" as const }
     : project.detailUrl

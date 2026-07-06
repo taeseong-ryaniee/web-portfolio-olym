@@ -8,6 +8,10 @@ export function ThemeToggle() {
   useEffect(() => {
     const saved = localStorage.getItem("theme")
     if (saved === "dark" || (!saved && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+      // ponytail: one-time read of persisted preference on mount, unavoidable
+      // extra render (no SSR access to localStorage). Move to a blocking inline
+      // script if the flash-of-wrong-label ever becomes a real complaint.
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setDark(true)
       document.documentElement.classList.add("dark")
     }
