@@ -13,6 +13,58 @@
     ]
   },
   {
+    "id": "2026-국가유산미디어아트-빛으로-여는-청주의-보물",
+    "title": "2026 국가유산미디어아트 《빛으로 여는 청주의 보물》",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-09-22",
+    "siteUrl": "https://cjculturenight.org/mediaart2026/kor/index.html",
+    "description": "천년의 역사를 품은 청주의 이야기들이 빛의 선율을 타고 하나씩 눈앞에...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=575&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/빛으로 여는 청주의 보물.jpg"
+    ]
+  },
+  {
+    "id": "한국수송기산업",
+    "title": "한국수송기산업",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-09-22",
+    "siteUrl": "https://www.susongki.co.kr/index.php",
+    "description": "고객의 생산 환경을 면밀히 분석하여 최상의 생산 효율을 실현하며,...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=574&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/board/inquiry/한국수송기산업.jpg"
+    ]
+  },
+  {
+    "id": "유네스코-창의도시-청주-특별전-손의-감각-세계의-결",
+    "title": "유네스코 창의도시 청주 특별전 《손의 감각, 세계의 결》",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-08-10",
+    "siteUrl": "https://cjkcm.org/craft17/",
+    "description": "유네스코 창의도시 청주 특별전 《손의 감각, 세계의 결》 손끝의 감각...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=573&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/etc/손의 감각, 세계의 결.jpg"
+    ]
+  },
+  {
+    "id": "충북지역대학혁신지원센터",
+    "title": "충북지역대학혁신지원센터",
+    "category": "Web",
+    "year": 2026,
+    "date": "2026-07-13",
+    "siteUrl": "https://cbrise.or.kr",
+    "description": "지역과 대학의 동반 성장을 위한 선순환 생태계를 구축하고, 정제된 정...",
+    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=562&page=1",
+    "images": [
+      "https://olym.co.kr/admode/upload/Smarteditor/etc/cbrisecenter.png"
+    ]
+  },
+  {
     "id": "와일드카버",
     "title": "와일드카버",
     "category": "Web",
@@ -478,19 +530,6 @@
     "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=510&page=2",
     "images": [
       "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/충북시민대학.jpg"
-    ]
-  },
-  {
-    "id": "충북지역대학혁신지원센터",
-    "title": "충북지역대학혁신지원센터",
-    "category": "Web",
-    "year": 2024,
-    "date": "2024-06-14",
-    "siteUrl": "https://cbrise.or.kr/",
-    "description": "충북지역대학혁신지원센터는 교육부의 지역혁신중심 대학지원체계(RISE,...",
-    "detailUrl": "https://olym.co.kr/sub.php?code=02_work010101&mode=view&no=509&page=2",
-    "images": [
-      "https://olym.co.kr/admode/upload/Smarteditor/board/portfolio/충북지역대학혁신지원센터.jpg"
     ]
   },
   {
